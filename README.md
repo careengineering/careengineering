@@ -1,5 +1,5 @@
 <h1 align="center">Care C.</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Computer&Civil Engineer</h3>
 
 - 🔭 I’m currently working on [Budgecument App](https://github.com/careengineering/budgecument_root)
 
