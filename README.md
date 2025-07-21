@@ -74,24 +74,25 @@ When I’m not coding, I enjoy designing wooden furniture, fixing gadgets, and e
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-</p>
 
-<p align="left">
-  <!-- Mevcut ikonlar... -->
+  <!-- Yeni logolar -->
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
+    <img src="https://raw.githubusercontent.com/your_repo/icons/beautifulsoup.svg" alt="Beautiful Soup" width="40" height="40"/>
+  </a>
+  <a href="https://python-visualization.github.io/folium/" target="_blank">
+    <img src="https://raw.githubusercontent.com/your_repo/icons/folium.svg" alt="Folium" width="40" height="40"/>
+  </a>
+  <a href="https://pjreddie.com/darknet/yolo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/your_repo/icons/yolo.svg" alt="YOLO" width="40" height="40"/>
+  </a>
+  <a href="https://www.sbert.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/your_repo/icons/sentence_transformers.svg" alt="Sentence‑Transformers" width="40" height="40"/>
+  </a>
+
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
   </a>
   <a href="https://qgis.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg" alt="QGIS" width="40" height="40"/>
   </a>
-  <!-- Diğer ikonlar kaldığı gibi -->
 </p>
-
----
-
-### 🛠 Other Tools & Software
-
-```
-Beautiful Soup, Folium, YOLO, Sentence-Transformers, FAISS, AdminLTE
-Engineering & Design: AutoCAD, SketchUp, ArchiCAD, V-Ray, SolidWorks, QGIS
-```
